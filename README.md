@@ -1,2 +1,2 @@
-# SampleWebsite
-A sample website that i made with a colleague for university project 
+# Simple website project
+For the sake of a university project we made this to show our fundamental skills in html and css.
